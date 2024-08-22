@@ -6,7 +6,7 @@ import React from 'react';
 import Stories from 'stories-react';
 import 'stories-react/dist/index.css';
 
-export default function StoryComponent() {
+export default function ImageAndVideoStoryComponent() {
   const stories = [
     {
       type: 'image',
